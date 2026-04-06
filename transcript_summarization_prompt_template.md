@@ -13,7 +13,7 @@ Follow this workflow step by step:
 - Example shape: “X has become Y because Z, which creates risks/opportunities A and B.”
 
 3. Map the structure
-- Identify 4–7 main blocks in the transcript (e.g. definitions, history, mechanisms, case studies, implications, caveats).
+- Identify the main blocks in the transcript (e.g. definitions, history, mechanisms, case studies, implications, caveats).
 - You may reorder these blocks for clarity if the transcript jumps around.
 
 4. Extract only argument‑bearing material
@@ -47,23 +47,22 @@ Follow this workflow step by step:
 A. One‑sentence thesis
 - 1–2 sentences that capture the main argument.
 
-B. 5‑bullet short summary
-- Exactly 5 bullets.
+B. Bullet-points short summary
 - Each bullet is one complete sentence capturing a distinct key idea.
 
 C. Structured analytical summary (4–6 sections)
-- Use markdown ## section headings like:
+- Use markdown ## section headings, for examples:
   - "What it is and how it works"
   - "Why it grew"
   - "Emerging cracks and frauds"
   - "How retail/households are exposed"
   - "Valuation tricks and hidden risks"
   - "Systemic channels and what could break"
-- Each section: 2–5 sentences, focusing on mechanisms, incentives, and consequences.
+- Each section: focusing on mechanisms, incentives, and consequences.
 - Prioritize clarity and information density over rhetoric.
 
 D. Decision‑maker takeaways
-- 3–5 bullets answering:
+- bullet-points answering:
   - Who benefits?
   - Who is the residual bag‑holder?
   - What must be true for the speaker’s argument to be wrong or overstated?
